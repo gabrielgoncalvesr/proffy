@@ -1,6 +1,3 @@
-# 
-Project to connect .
-
 # proffy
 
 
